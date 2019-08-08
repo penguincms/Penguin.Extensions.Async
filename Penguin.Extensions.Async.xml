@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Penguin.Extensions.Async</name>
+    </assembly>
+    <members>
+        <member name="M:Penguin.Extensions.Async.TaskExtensions.GetResult``1(System.Threading.Tasks.Task{``0})">
+            <summary>
+            Waits for the task to complete and then returns the result
+            </summary>
+            <typeparam name="T">The result type</typeparam>
+            <param name="task">the task to await</param>
+            <returns>The result</returns>
+        </member>
+    </members>
+</doc>

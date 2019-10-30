@@ -4,6 +4,8 @@
     <PackageProjectUrl>https://github.com/penguincms/Penguin.Extensions.Async</PackageProjectUrl>
     <Version>1.1.7</Version>
     <Description>Async extension methods containing very little</Description>
+    <AssemblyName>Penguin.Extensions.Async</AssemblyName>
+    <RootNamespace>Penguin.Extensions.Async</RootNamespace>
   </PropertyGroup>
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
 </Project>

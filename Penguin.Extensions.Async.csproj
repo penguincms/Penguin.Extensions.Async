@@ -6,6 +6,7 @@
     <Description>Async extension methods containing very little</Description>
     <AssemblyName>Penguin.Extensions.Async</AssemblyName>
     <RootNamespace>Penguin.Extensions.Async</RootNamespace>
+    <DocumentationFile>Penguin.Extensions.Async.xml</DocumentationFile>
   </PropertyGroup>
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
 </Project>

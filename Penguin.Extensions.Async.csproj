@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageProjectUrl>https://github.com/penguincms/Penguin.Extensions.Async</PackageProjectUrl>
-    <Version>1.1.7</Version>
+    <Version>5.0.0</Version>
     <Description>Async extension methods containing very little</Description>
     <AssemblyName>Penguin.Extensions.Async</AssemblyName>
     <RootNamespace>Penguin.Extensions.Async</RootNamespace>
